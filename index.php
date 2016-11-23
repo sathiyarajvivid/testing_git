@@ -5,6 +5,6 @@
  * @copyright 2016
  */
 
-echo 'Testing Git files';
+echo 'Testing Git files structure';
 
 ?>
